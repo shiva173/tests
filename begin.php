@@ -1,5 +1,5 @@
 <?php  
-
+//////////////// задание 1
 $first = [30, 550, 22, 1, 403, 5200, 130, 12, 40];
 $second = [550, 40, 1, 403, 5200, 12, 2, 15, 22];
 
@@ -27,7 +27,7 @@ uniq_value($first, $second);
 
 
 
-
+///////////////////// задание 2
 $words = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam";
 
 $up_words = ucwords($words);
