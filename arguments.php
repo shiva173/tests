@@ -1,5 +1,5 @@
 <?php 
-
+//задание 3
 $words = $argv[1];
 
 $pieces = explode(',', $words); //explode преобразование строки в массив
